@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Jelyn Mabras</h1>
 
 <p align="center">
-  💻 <strong>IT Student | Flutter & Mobile Dev Enthusiast</strong>  
+  💻 <strong>IT Student</strong>  
 </p>
 
 ---
