@@ -34,17 +34,15 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mabrasjelyn-stack/fruit-slice-detector.git">
-    <img src="https://img.shields.io/badge/Fruit_Slice_Classification-View_Repo-brightgreen?style=for-the-badge&logo=github" alt="Fruit Slice Classification"/>
-  </a>
-  <a href="https://github.com/mabrasjelyn-stack/Flutter_Widget_UIComponents">
-    <img src="https://img.shields.io/badge/Widget_UI_Components-View_Repo-blue?style=for-the-badge&logo=github" alt="Widget UI Components"/>
-  </a>
-  <a href="https://github.com/mabrasjelyn-stack">
-    <img src="https://img.shields.io/badge/IT_Class_Activities-View_Repo-orange?style=for-the-badge&logo=github" alt="IT Class Activities"/>
-  </a>
-</p>
+### 💻 **Flutter & Mobile Development**
+- **Fruit Slice Classification** – AI + Mobile App for image classification  
+  🔗 [View Full Final Project Repository](https://github.com/mabrasjelyn-stack/fruit-slice-detector.git)  
+- **Widget UI Components** – Collection of custom reusable UI widgets  
+  🔗 [View Repository](https://github.com/mabrasjelyn-stack/Flutter_Widget_UIComponents)
+
+### 🎓 **Academic / Class Activities**
+- **IT120 / IT108 Class Activities** – School exercises and implementations  
+  🔗 [View Repositories](https://github.com/mabrasjelyn-stack)
 
 ---
 
