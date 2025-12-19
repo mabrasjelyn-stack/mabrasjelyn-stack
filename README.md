@@ -6,23 +6,21 @@
 
 ---
 
-## ⭐ Featured Final Project
+## 📱 Featured Project: Fruit Slice Detector
 
-### 🍎 Fruit Slice Detector
-> AI-powered mobile application that classifies fruit slices using image recognition.
+**Fruit Slice Detector** is an image classification mobile application that detects sliced fruits using a trained machine learning model.  
+This project was developed as a **final requirement** and demonstrates the use of **AI image classification**, **model integration**, and **mobile app deployment**.
+
+### 📸 App Preview (Screenshots)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mabrasjelyn-stack/fruit-slice-detector/main/screenshots/home.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/mabrasjelyn-stack/fruit-slice-detector/master/screenshots/splash.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/mabrasjelyn-stack/fruit-slice-detector/master/screenshots/home.png" width="250"/>
 </p>
 
-🔹 Built with **Flutter & TensorFlow Lite**  
-🔹 Image classification using trained AI model  
-🔹 Camera & gallery image input  
-🔹 Real-time prediction results  
-
-👉 **View Full Project Repository:**  
-🔗 https://github.com/mabrasjelyn-stack/fruit-slice-detector
-
+🔗 **View Full Project Repository:**  
+👉 https://github.com/mabrasjelyn-stack/fruit-slice-detector
 ---
 
 ## 🧩 Other Projects
